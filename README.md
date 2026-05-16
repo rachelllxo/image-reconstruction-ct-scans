@@ -1,7 +1,6 @@
 # CT Scan Reconstruction and Enhancement using Deep Learning
 
 
-# CT Scan Reconstruction and Enhancement using Deep Learning
 
 A deep learning and computer vision based medical imaging project for enhancing and reconstructing CT scan slices using image preprocessing, uncertainty estimation, and trust map visualization.
 
